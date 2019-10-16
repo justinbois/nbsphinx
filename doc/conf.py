@@ -113,6 +113,7 @@ except Exception:
 # -- Options for HTML output ----------------------------------------------
 
 html_title = project + ' version ' + release
+html_theme = 'sphinx_pyviz_theme'
 
 # -- Options for LaTeX output ---------------------------------------------
 
